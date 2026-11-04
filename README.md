@@ -58,12 +58,12 @@ const warda = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Warda-Web-And-App-Developer&show_icons=true&hide_border=true&bg_color=0d1330&title_color=ff3b5c&icon_color=ff5d7a&text_color=e8ecff" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warda-Web-And-App-Developer&layout=compact&hide_border=true&bg_color=0d1330&title_color=ff3b5c&text_color=e8ecff" alt="Top languages"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Warda-Web-And-App-Developer&theme=tokyonight" alt="GitHub stats"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Warda-Web-And-App-Developer&theme=tokyonight" alt="Top languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Warda-Web-And-App-Developer&theme=dark&hide_border=true&background=0d1330&ring=ff3b5c&fire=ff5d7a&currStreakLabel=e8ecff" alt="Streak stats"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Warda-Web-And-App-Developer&bg_color=0d1330&color=ff5d7a&line=d2133b&point=ffffff&area=true&hide_border=true" alt="Activity graph" width="100%"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Warda-Web-And-App-Developer&theme=tokyonight&utcOffset=5" alt="Productive time"/>
 
 </div>
 
@@ -78,18 +78,19 @@ const warda = {
 </picture>
 </div>
 
+
 ---
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Email](https://img.shields.io/badge/Email-d2133b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Pinterest](https://img.shields.io/badge/Pinterest-e60023?style=for-the-badge&logo=pinterest&logoColor=white)](YOUR_PINTEREST_LINK)
-[![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
-[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_LINK)
-[![Alumni](https://img.shields.io/badge/Alumni-0d1330?style=for-the-badge&logo=googlescholar&logoColor=ff3b5c)](YOUR_ALUMNI_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/warda-web-developer-1w68p195/)
+[![Email](https://img.shields.io/badge/Email-d2133b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:webandappdeveloperwarda17@gmail.com)
+[![Pinterest](https://img.shields.io/badge/Pinterest-e60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/warda_developer/_profile/)
+[![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjiuI7Kaoca3AtGWMKo10EQ)
+[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61596152099258)
+[![Alumni](https://img.shields.io/badge/Alumni-0d1330?style=for-the-badge&logo=googlescholar&logoColor=ff3b5c)](https://alumni.saylanimit.com/wardadeveloper)
 
 <img src="footer.svg" alt="Thanks for stopping by" width="100%"/>
 
