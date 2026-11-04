@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 370" width="820" height="370">
+  <style>
+    text { font-family: 'Fira Code', 'JetBrains Mono', Consolas, monospace; font-size: 17px; }
+    .p { fill: #ff3b5c; }
+    .c { fill: #e8ecff; }
+    .o { fill: #7fe3b5; }
+    .t { fill: #8b93b8; font-size: 13px; }
+    .cv { fill: #0a0f24; }
+    .cur { fill: #ff3b5c; animation: blink 1s steps(1) infinite; }
+    .a1 { animation: a1 16s infinite; }
+    .a2 { animation: a2 16s infinite; }
+    .a3 { animation: a3 16s infinite; }
+    .a4 { animation: a4 16s infinite; }
+    .a5 { animation: a5 16s infinite; }
+    .a6 { animation: a6 16s infinite; }
+    .a7 { animation: a7 16s infinite; }
+    .a8 { animation: a8 16s infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes a1 { 0%,3.1% { transform: translateX(0); animation-timing-function: steps(8); } 8.8%,96% { transform: translateX(700px); } 96.5%,100% { transform: translateX(0); } }
+    @keyframes a2 { 0%,10% { transform: translateX(0); animation-timing-function: steps(30); } 16.3%,96% { transform: translateX(700px); } 96.5%,100% { transform: translateX(0); } }
+    @keyframes a3 { 0%,20% { transform: translateX(0); animation-timing-function: steps(15); } 27.5%,96% { transform: translateX(700px); } 96.5%,100% { transform: translateX(0); } }
+    @keyframes a4 { 0%,28.8% { transform: translateX(0); animation-timing-function: steps(30); } 36.3%,96% { transform: translateX(700px); } 96.5%,100% { transform: translateX(0); } }
+    @keyframes a5 { 0%,40% { transform: translateX(0); animation-timing-function: steps(14); } 47.5%,96% { transform: translateX(700px); } 96.5%,100% { transform: translateX(0); } }
+    @keyframes a6 { 0%,48.8% { transform: translateX(0); animation-timing-function: steps(30); } 57.5%,96% { transform: translateX(700px); } 96.5%,100% { transform: translateX(0); } }
+    @keyframes a7 { 0%,61.3% { transform: translateX(0); animation-timing-function: steps(14); } 67.5%,96% { transform: translateX(700px); } 96.5%,100% { transform: translateX(0); } }
+    @keyframes a8 { 0%,68.8% { transform: translateX(0); animation-timing-function: steps(30); } 78.1%,96% { transform: translateX(700px); } 96.5%,100% { transform: translateX(0); } }
+  </style>
+
+  <!-- window -->
+  <rect x="10" y="10" width="800" height="350" rx="12" fill="#0a0f24" stroke="#1d2550" stroke-width="2"/>
+  <path d="M10 46 V22 a12 12 0 0 1 12 -12 H798 a12 12 0 0 1 12 12 V46 Z" fill="#121a3d"/>
+  <circle cx="34" cy="28" r="6" fill="#ff5f57"/>
+  <circle cx="56" cy="28" r="6" fill="#febc2e"/>
+  <circle cx="78" cy="28" r="6" fill="#28c840"/>
+  <text class="t" x="330" y="33">warda@dev: ~/about</text>
+
+  <!-- rows -->
+  <g>
+    <text x="44" y="92"><tspan class="p">$ </tspan><tspan class="c">whoami</tspan></text>
+    <text class="o" x="44" y="118">warda_developer · full-stack web dev · Karachi, PK</text>
+
+    <text x="44" y="154"><tspan class="p">$ </tspan><tspan class="c">cat stack.txt</tspan></text>
+    <text class="o" x="44" y="180">React · Tailwind · Firebase · JavaScript · Three.js</text>
+
+    <text x="44" y="216"><tspan class="p">$ </tspan><tspan class="c">cat now.txt</tspan></text>
+    <text class="o" x="44" y="242">building chat apps, shops &amp; 3D web experiences</text>
+
+    <text x="44" y="278"><tspan class="p">$ </tspan><tspan class="c">echo $FUEL</tspan></text>
+    <text class="o" x="44" y="304">coffee + code + way too many browser tabs</text>
+  </g>
+
+  <!-- cover rects slide away to "type" each row -->
+  <rect class="cv a1" x="44" y="72" width="700" height="28"/>
+  <rect class="cv a2" x="44" y="98" width="700" height="28"/>
+  <rect class="cv a3" x="44" y="134" width="700" height="28"/>
+  <rect class="cv a4" x="44" y="160" width="700" height="28"/>
+  <rect class="cv a5" x="44" y="196" width="700" height="28"/>
+  <rect class="cv a6" x="44" y="222" width="700" height="28"/>
+  <rect class="cv a7" x="44" y="258" width="700" height="28"/>
+  <rect class="cv a8" x="44" y="284" width="700" height="28"/>
+
+  <!-- prompt + blinking cursor -->
+  <text class="p" x="44" y="340">$</text>
+  <rect class="cur" x="66" y="325" width="10" height="19"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 160" width="1000" height="160">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#05070f" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0d1330"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI', Arial, sans-serif; }
+    .msg { font-size: 20px; fill: #e8ecff; letter-spacing: 1px; animation: pulse 3.5s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+  </style>
+  <rect width="1000" height="160" fill="url(#bg)"/>
+  <path fill="#d2133b" opacity=".3" d="M0 70 q125 -34 250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 V160 H0 Z">
+    <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#5b6cff" opacity=".2" d="M0 90 q125 30 250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 V160 H0 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="13s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#0d1330" d="M0 112 q125 -22 250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 V160 H0 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <text class="msg" x="500" y="138" text-anchor="middle">Thanks for stopping by — let's build something wild ✦</text>
+</svg>
