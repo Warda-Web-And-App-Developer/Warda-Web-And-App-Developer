@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=d2133b&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Warda-Web-And-App-Developer&label=Profile+views&color=d2133b&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -58,12 +58,12 @@ const warda = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1330&title_color=ff3b5c&icon_color=ff5d7a&text_color=e8ecff" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1330&title_color=ff3b5c&text_color=e8ecff" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Warda-Web-And-App-Developer&show_icons=true&hide_border=true&bg_color=0d1330&title_color=ff3b5c&icon_color=ff5d7a&text_color=e8ecff" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warda-Web-And-App-Developer&layout=compact&hide_border=true&bg_color=0d1330&title_color=ff3b5c&text_color=e8ecff" alt="Top languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1330&ring=ff3b5c&fire=ff5d7a&currStreakLabel=e8ecff" alt="Streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Warda-Web-And-App-Developer&theme=dark&hide_border=true&background=0d1330&ring=ff3b5c&fire=ff5d7a&currStreakLabel=e8ecff" alt="Streak stats"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1330&color=ff5d7a&line=d2133b&point=ffffff&area=true&hide_border=true" alt="Activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Warda-Web-And-App-Developer&bg_color=0d1330&color=ff5d7a&line=d2133b&point=ffffff&area=true&hide_border=true" alt="Activity graph" width="100%"/>
 
 </div>
 
@@ -73,8 +73,8 @@ const warda = {
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Warda-Web-And-App-Developer/Warda-Web-And-App-Developer/output/github-snake-dark.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Warda-Web-And-App-Developer/Warda-Web-And-App-Developer/output/github-snake.svg" width="100%"/>
 </picture>
 </div>
 
